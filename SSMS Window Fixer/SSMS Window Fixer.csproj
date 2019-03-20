@@ -99,6 +99,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Links.txt" />
     <Content Include="Microsoft.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

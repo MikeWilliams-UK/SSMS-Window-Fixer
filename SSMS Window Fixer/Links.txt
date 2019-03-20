@@ -1,0 +1,4 @@
+﻿
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/b2668b56-f021-4680-9997-4413620c1474/sql-management-studio-windows-open-offscreen?forum=sqltools
+https://social.msdn.microsoft.com/Forums/en-US/0daad1ff-6c4f-4959-8d61-087bc1138875/sql-server-management-studio-modal-connection-dialog-is-hidden?forum=sqltools
+http://blog.danskingdom.com/tell-microsoft-to-fix-the-sql-server-management-studio-connect-to-server-dialog-position/
