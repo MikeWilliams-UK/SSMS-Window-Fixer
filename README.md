@@ -5,7 +5,7 @@ This application was written becuase I got fed up with SSMS and Visual Studio di
 
 ![image](https://user-images.githubusercontent.com/13162784/67552135-520ba180-f702-11e9-8f11-5425d78a76c4.png)
 
-In this scenario some dialogues presented themselves in the piece of no man's land (dead areas) to the left or right of the laptop monitor below the auxiliary monitor, thus were inaccessible.
+In this scenario some dialogues presented themselves in the piece of no man's land (dead areas) to the left or right of the laptop monitor below the auxiliary monitors, thus were inaccessible.
 
 The magic key chord to move windows was ineffective in moving these dialogues.
 
